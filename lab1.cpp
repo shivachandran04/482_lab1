@@ -5,7 +5,7 @@
 #include "mutex.h"
 
 const int NUM_THREADS = 2;
-const int NUM_ITER = 100000;
+const int NUM_ITER = 20;
 
 int counter = 0;
 mutex counter_mutex;
